@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>SpaghettiCode</title>
-    <link href="https://github.com/dLeoni04/SpaghettiCode/feed.xml" rel="self" />
-    <link href="https://github.com/dLeoni04/SpaghettiCode" />
+    <link href="https://dleoni04.github.io/SpaghettiCode/feed.xml" rel="self" />
+    <link href="https://dleoni04.github.io/SpaghettiCode" />
     <updated>2026-10-27T19:51:44+01:00</updated>
     <author>
         <name>Dado</name>
     </author>
-    <id>https://github.com/dLeoni04/SpaghettiCode</id>
+    <id>https://dleoni04.github.io/SpaghettiCode</id>
 
     <entry>
         <title>SpaghettiCode, ma qui la cucina non è sempre aperta!</title>
         <author>
             <name>Dado</name>
         </author>
-        <link href="https://github.com/dLeoni04/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/"/>
-        <id>https://github.com/dLeoni04/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/</id>
-        <media:content url="https://github.com/dLeoni04/SpaghettiCode/media/posts/3/post1Banner.jpg" medium="image" />
+        <link href="https://dleoni04.github.io/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/"/>
+        <id>https://dleoni04.github.io/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/</id>
+        <media:content url="https://dleoni04.github.io/SpaghettiCode/media/posts/3/post1Banner.jpg" medium="image" />
 
         <updated>2026-10-27T15:53:32+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/dLeoni04/SpaghettiCode/media/posts/3/post1Banner.jpg" alt="" />
+                        <img src="https://dleoni04.github.io/SpaghettiCode/media/posts/3/post1Banner.jpg" alt="" />
                     Ah, un essere umano!!!! 👨‍🎓 👩‍🍳 Benvenut@ nella mia tana di codici, chiacchiere e chi più ne ha più ne metta!! Vi parlerò dei miei&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/dLeoni04/SpaghettiCode/media/posts/3/post1Banner.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dleoni04.github.io/SpaghettiCode/media/posts/3/post1Banner.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Ah, un essere umano!!!! 👨‍🎓 👩‍🍳 </p><p>Benvenut@ nella mia tana di codici, chiacchiere e chi più ne ha più ne metta!!</p><p>Vi parlerò dei miei progetti, <em>del</em> <strong>mio</strong> <em><strong><del>sconfinato</del></strong></em> amore <del>per il markdown</del> e del mio percorso da studente di un ITS! (Prima che si sparga la voce e arrivi ai miei professori, il nome del blog è pura ironia :)</p><hr>
 <p>Ecco delle cose assolutamente inutili da sapere su di me:</p><ul>
 <li>Il mio linguaggio di programmazione preferito è Java; ☕ </li>

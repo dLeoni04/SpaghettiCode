@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SpaghettiCode",
     "description": "",
-    "home_page_url": "https://github.com/dLeoni04/SpaghettiCode",
-    "feed_url": "https://github.com/dLeoni04/SpaghettiCode/feed.json",
+    "home_page_url": "https://dleoni04.github.io/SpaghettiCode",
+    "feed_url": "https://dleoni04.github.io/SpaghettiCode/feed.json",
     "user_comment": "",
     "author": {
         "name": "Dado"
     },
     "items": [
         {
-            "id": "https://github.com/dLeoni04/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/",
-            "url": "https://github.com/dLeoni04/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/",
+            "id": "https://dleoni04.github.io/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/",
+            "url": "https://dleoni04.github.io/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/",
             "title": "SpaghettiCode, ma qui la cucina non è sempre aperta!",
             "summary": "Ah, un essere umano!!!! 👨‍🎓 👩‍🍳 Benvenut@ nella mia tana di codici, chiacchiere e chi più ne ha più ne metta!! Vi parlerò dei miei&hellip;",
             "content_html": "<p>Ah, un essere umano!!!! 👨‍🎓 👩‍🍳 </p><p>Benvenut@ nella mia tana di codici, chiacchiere e chi più ne ha più ne metta!!</p><p>Vi parlerò dei miei progetti, <em>del</em> <strong>mio</strong> <em><strong><del>sconfinato</del></strong></em> amore <del>per il markdown</del> e del mio percorso da studente di un ITS! (Prima che si sparga la voce e arrivi ai miei professori, il nome del blog è pura ironia :)</p><hr>\n<p>Ecco delle cose assolutamente inutili da sapere su di me:</p><ul>\n<li>Il mio linguaggio di programmazione preferito è Java; ☕ </li>\n<li>Detesto usare Python</li>\n<li>Sono un utente Linux che cerca di convertire tutti all’Open Source</li>\n<li>Non sono figlio unico</li>\n</ul>\n<hr>\n<p>Non so cosa altro dire per presentarmi, quindi vi saluto e spero che vi piaccia leggere ciò che scrivo!! &lt;3</p>",
-            "image": "https://github.com/dLeoni04/SpaghettiCode/media/posts/3/post1Banner.jpg",
+            "image": "https://dleoni04.github.io/SpaghettiCode/media/posts/3/post1Banner.jpg",
             "author": {
                 "name": "Dado"
             },

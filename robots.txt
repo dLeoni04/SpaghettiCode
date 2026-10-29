@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/dLeoni04/SpaghettiCode/sitemap.xml
+Sitemap: https://dleoni04.github.io/SpaghettiCode/sitemap.xml
