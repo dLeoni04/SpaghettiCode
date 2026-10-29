@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/dLeoni04/SpaghettiCode/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/dLeoni04/SpaghettiCode/</loc>
+</url>
+<url>
+<loc>https://github.com/dLeoni04/SpaghettiCode/chi-sono/</loc>
+<lastmod>2026-10-29T22:03:25+01:00</lastmod>
+<image:image>
+<image:loc>https://github.com/dLeoni04/SpaghettiCode/media/posts/4/java-icon.svg</image:loc>
+<image:title><![CDATA[Logo del linguaggio di programmazione Java]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/dLeoni04/SpaghettiCode/spaghetticode-ma-qui-la-cucina-non-e-sempre-apertamd/</loc>
+<lastmod>2026-10-27T19:51:44+01:00</lastmod>
+<image:image>
+<image:loc>https://github.com/dLeoni04/SpaghettiCode/media/posts/3/post1Banner.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
