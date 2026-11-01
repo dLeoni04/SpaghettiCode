@@ -3,7 +3,7 @@
     <title>SpaghettiCode</title>
     <link href="https://dleoni04.github.io/SpaghettiCode/feed.xml" rel="self" />
     <link href="https://dleoni04.github.io/SpaghettiCode" />
-    <updated>2026-11-01T12:26:26+01:00</updated>
+    <updated>2026-11-01T12:43:41+01:00</updated>
     <author>
         <name>Dado</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://dleoni04.github.io/SpaghettiCode/la-mia-scoperta-del-terminale-linux/"/>
         <id>https://dleoni04.github.io/SpaghettiCode/la-mia-scoperta-del-terminale-linux/</id>
+        <media:content url="https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2-md.png" medium="image" />
             <category term="Terminale"/>
             <category term="Debian"/>
 
         <updated>2026-10-27T22:34:15+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2-md.png" alt="" />
                     Sono un utente Linux da poco più di un anno, e non dimenticherò mai la grandissima paura che avevo all’inizio anche solo nel pensare di&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2-md.png" class="type:primaryImage" alt="" /></p>
                 <p>Sono un utente Linux da poco più di un anno, e non dimenticherò mai la grandissima paura che avevo all’inizio anche solo nel pensare di imparare ad usare il terminale. Cercavo solo applicazioni grafiche senza ascoltare il mio povero computer, che non è proprio un fulmine di guerra.</p><figure>
     <img loading="lazy"           src="https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2.png" style="width:75%; height:auto; display:block; margin: auto;"
          alt="Terminale Linux con l'output del comando fastfetch" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-lg.png 1024w">
