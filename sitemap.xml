@@ -6,10 +6,22 @@
 </url>
 <url>
 <loc>https://dleoni04.github.io/SpaghettiCode/chi-sono/</loc>
-<lastmod>2026-10-29T23:13:58+01:00</lastmod>
+<lastmod>2026-10-29T23:30:19+01:00</lastmod>
 <image:image>
 <image:loc>https://dleoni04.github.io/SpaghettiCode/media/posts/4/java-icon.svg</image:loc>
 <image:title><![CDATA[Logo del linguaggio di programmazione Java]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://dleoni04.github.io/SpaghettiCode/la-mia-scoperta-del-terminale-linux/</loc>
+<lastmod>2026-11-01T12:26:26+01:00</lastmod>
+<image:image>
+<image:loc>https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2.png</image:loc>
+<image:title><![CDATA[Terminale Linux con l'output del comando fastfetch]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://dleoni04.github.io/SpaghettiCode/media/posts/7/cowsay.png</image:loc>
+<image:title><![CDATA[Terminale Linux con l'output del comando cowsay]]></image:title>
 </image:image>
 </url>
 <url>

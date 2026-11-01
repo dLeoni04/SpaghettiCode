@@ -3,12 +3,46 @@
     <title>SpaghettiCode</title>
     <link href="https://dleoni04.github.io/SpaghettiCode/feed.xml" rel="self" />
     <link href="https://dleoni04.github.io/SpaghettiCode" />
-    <updated>2026-10-27T19:51:44+01:00</updated>
+    <updated>2026-11-01T12:26:26+01:00</updated>
     <author>
         <name>Dado</name>
     </author>
     <id>https://dleoni04.github.io/SpaghettiCode</id>
 
+    <entry>
+        <title>Il temutissimo terminale Linux è stato una piacevolissima scoperta</title>
+        <author>
+            <name>Dado</name>
+        </author>
+        <link href="https://dleoni04.github.io/SpaghettiCode/la-mia-scoperta-del-terminale-linux/"/>
+        <id>https://dleoni04.github.io/SpaghettiCode/la-mia-scoperta-del-terminale-linux/</id>
+            <category term="Terminale"/>
+            <category term="Debian"/>
+
+        <updated>2026-10-27T22:34:15+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Sono un utente Linux da poco più di un anno, e non dimenticherò mai la grandissima paura che avevo all’inizio anche solo nel pensare di&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sono un utente Linux da poco più di un anno, e non dimenticherò mai la grandissima paura che avevo all’inizio anche solo nel pensare di imparare ad usare il terminale. Cercavo solo applicazioni grafiche senza ascoltare il mio povero computer, che non è proprio un fulmine di guerra.</p><figure>
+    <img loading="lazy"           src="https://dleoni04.github.io/SpaghettiCode/media/posts/7/fastfetch-2.png" style="width:75%; height:auto; display:block; margin: auto;"
+         alt="Terminale Linux con l'output del comando fastfetch" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/fastfetch-2-lg.png 1024w">
+    <figcaption style="font-size:1rem">Se ho soprannominato il mio pc BIDONCINO un motivo ci sarà lol</figcaption>
+</figure>
+
+<p>Un giorno ero nel bel mezzo di una discussione su un subreddit sull’utilità e sulla maggiore efficienza e velocità delle applicazioni a riga di comando rispetto alle applicazioni grafiche. Un utente ha detto questa frase:</p><blockquote>
+<p>Ricorda che in un sistema Linux l’ambiente desktop è solo un vezzo,
+il vero cuore del sistema è sempre il terminale.</p></blockquote>
+<p>Questa frase mi ha convinto a provare qualche programma, giusto per finalmente testare il terreno. Ho fatto prove per un paio di settimane e…</p><p><strong>Ora non ne posso più fare a meno!!!</strong></p><p>Ormai faccio da terminale praticamente tutto, dal guardare i video su YouTube a aggiungere e togliere regole al firewall di sistema; sto scrivendo anche i testi per questo blog direttamente dal terminale :) Non sento più il pc sbuffare e probabilmente mi sta ringraziando dal profondo della sua scheda madre!</p><p>Un’altra cosa che ha letteralmente cambiato il modo in cui uso il pc sono gli <strong>script bash</strong>: automatizzare lo scaricamento di programmi su installazioni nuove di Linux, gestire i file, le configurazioni dei programmi, tutto tramite uno script di poche righe! Mi piacerebbe anche saperli scrivere sti script, ma non ho idea di come si scriva il linguaggio bash, tutti gli script che uso regolarmente sono stati generati dal mio super amico Gemini :) </p><p>Detto questo, vi ringrazio per la lettura e…</p><img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/7/cowsay.png" alt="Terminale Linux con l'output del comando cowsay" style="display:block; margin:auto;" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/cowsay-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/cowsay-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/cowsay-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/7/responsive/cowsay-lg.png 1024w">
+
+   
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SpaghettiCode, ma qui la cucina non è sempre aperta!</title>
         <author>
