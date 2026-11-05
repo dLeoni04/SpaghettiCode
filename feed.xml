@@ -3,12 +3,44 @@
     <title>SpaghettiCode</title>
     <link href="https://dleoni04.github.io/SpaghettiCode/feed.xml" rel="self" />
     <link href="https://dleoni04.github.io/SpaghettiCode" />
-    <updated>2026-11-01T12:43:41+01:00</updated>
+    <updated>2026-11-05T11:10:24+01:00</updated>
     <author>
         <name>Dado</name>
     </author>
     <id>https://dleoni04.github.io/SpaghettiCode</id>
 
+    <entry>
+        <title>Markdown, amore al primo carattere</title>
+        <author>
+            <name>Dado</name>
+        </author>
+        <link href="https://dleoni04.github.io/SpaghettiCode/markdown-amore-al-primo-carattere/"/>
+        <id>https://dleoni04.github.io/SpaghettiCode/markdown-amore-al-primo-carattere/</id>
+            <category term="Programmazione"/>
+            <category term="Markdown"/>
+
+        <updated>2026-10-29T16:39:19+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Ho scoperto il markdown quando uno dei professori dell’ITS che frequento iniziò a farcelo usare per scrivere informazioni su proge tti ed esercizi. Me ne&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ho scoperto il markdown quando uno dei professori dell’ITS che frequento iniziò a farcelo usare per scrivere informazioni su proge    tti ed esercizi. Me ne sono innamorato subito,per la sintassi estremamente semplice e per il fatto che si può usare praticamente ovunque; Come successo per le [applicazioni da terminale], ora non ne riesco più a fare a meno! Uso il markdown per scrivere qualsiasi cosa, dai file README di GitHub a note e promemoria di qualsiasi tipo, perfino per scrivere le pagine e i post di questo blog!</p><h2 id="ok-ma-cosè-il-markdown">Ok ma… Cos’è il markdown?</h2>
+<p>Il markdown è un linguaggio di markup che consente di formattare testo con una sintassi molto semplice, pensata per essere facilmente convertita in HTML. I file markdown non sono altro che normali file di testo con estensione “.md” (Oppure “.markdown”), modificabili con uneditor di testo qualsiasi.</p><h2 id="piccola-storia-del-markdown">Piccola storia del markdown</h2>
+<p>Markdown venne creato nel 2003 da John Gruber per permettere a tutti di scrivere con una formattazione molto semplice, senza usare tag o istruzioni troppo complesse. Tutto nacque da uno script scritto in Perl che converte un testo formattato con HTML cambiando parentesi angolari e la “e commerciale” con le loro entità. Per esempio, l’entità della e commerciale è <code>&amp;amp;</code>.</p><figure>
+  <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/8/MARKDOWNPL.png " alt="" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/8/responsive/MARKDOWNPL-xs.png%20 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/8/responsive/MARKDOWNPL-sm.png%20 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/8/responsive/MARKDOWNPL-md.png%20 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/8/responsive/MARKDOWNPL-lg.png%20 1024w">
+  <figcaption>
+            Un pezzo dello script Perl, preso da <a href="https://github.com/mundimark/markdown.pl/tree/master">questo repository</a>
+    </figcaption>
+</figure>
+ 
+<p> Da allora, Markdown è implementato come moduli Perl in diversi programmi e addirittura in diversi linguaggi di programmazione.</p><p>Ad oggi ci sono centinaia, e forse anche migliaia, di risorse online per imparare sia il markdown base che sintassi più avanzate.
+ Vi segnalo il sito <a href="https://www.markdownguide.org/">markdownguide.org</a>, che spiega tutte le sintassi in maniera visuale e chiara! </p><p>Grazie per aver letto e…</p><p><code>**Buona scrittura in markdown!**</code></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Il temutissimo terminale Linux è stato una piacevolissima scoperta</title>
         <author>
