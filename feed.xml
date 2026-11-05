@@ -3,7 +3,7 @@
     <title>SpaghettiCode</title>
     <link href="https://dleoni04.github.io/SpaghettiCode/feed.xml" rel="self" />
     <link href="https://dleoni04.github.io/SpaghettiCode" />
-    <updated>2026-11-05T12:15:42+01:00</updated>
+    <updated>2026-11-05T12:22:03+01:00</updated>
     <author>
         <name>Dado</name>
     </author>
@@ -17,6 +17,9 @@
         <link href="https://dleoni04.github.io/SpaghettiCode/le-mie-app-a-riga-di-comando-preferite/"/>
         <id>https://dleoni04.github.io/SpaghettiCode/le-mie-app-a-riga-di-comando-preferite/</id>
         <media:content url="https://dleoni04.github.io/SpaghettiCode/media/posts/9/bitmap-2.png" medium="image" />
+            <category term="Terminale"/>
+            <category term="Programmazione"/>
+            <category term="Debian"/>
 
         <updated>2026-10-30T20:45:19+01:00</updated>
             <summary type="html">
@@ -30,13 +33,13 @@
                     <p><img src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/bitmap-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Come già detto in un precedente post, adoro lavorare dentro il terminale per fare molti tipi di task, dalla gestione di sistema all’intrattenimento. Vi propongo i miei 3 programmi preferiti, che uso quotidianamente:</p><h2 id="newsboat">Newsboat</h2>
 <p>Newsboat è un lettore di feed RSS che gira interamente all’interno del terminale. Tramite un semplice file di testo, permette di aggiungere i link dei feed che preferisci!</p><figure>
-        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/newsboat.png" alt="Terminale con app Newsboat aperta" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-lg.png 1024w">
+        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/newsboat.png" alt="Terminale con app Newsboat aperta" style="display:block; margin: 0 auto;" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/newsboat-lg.png 1024w">
     <figcaption>Un terminale con l'app newsboat aperta al suo interno</figcaption>
     </figure>
 
 <p>Uso Newsboat per tenere traccia dei nuovi contenuti di blog, canali YouTube e persino dei nuovi rilasci di alcuni programmi su Github! E’ diventato fondamentale per tenermi aggiornato su ciò che mi piace senza venir distratto da pubblicità e algoritmi di tutti i tipi!</p><p><a href="https://newsboat.org/index.html">Sito web Newsboat</a></p><h2 id="vim">Vim</h2>
 <p>Vim è un editor di testo tra i più diffusi su Linux. Leggero e veloce, è una versione migliorata del vecchio editor Vi (non a caso VIM sta per Vi IMproved).</p><figure>
-        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/vim.png" alt="File HTML aperto in Vim" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-lg.png 1024w">
+        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/vim.png" alt="File HTML aperto in Vim" style="display:block; margin: 0 auto;" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/vim-lg.png 1024w">
     <figcaption>Un file HTML aperto in Vim!</figcaption>
     </figure>
 
@@ -46,7 +49,7 @@
 </ul>
 <p>Grazie alla sua natura modale, Vim può essere usato senza togliere le mani dalla tastiera, aumentando la velocità di scrittura ma rendendolo più ostico da avvicinare per un utente inesperto, dovendo imparare tutti i key binds per impartire comandi e cambiare modalità (io stesso sto ancora imparando ad usarlo bene, e mi sta letteralmente facendo esplodere il cervello)</p><p><a href="https://www.vim.org/">Sito web Vim</a></p><h2 id="ttt-terminal-text-tool">TTT (Terminal Text Tool)</h2>
 <p>TTT è un editor di testo che genera un IDE completo direttamente all’interno del terminale, ideale per scrivere codice con un programma leggero, veloce e anche bello da vedere.</p><figure>
-        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/ttt-6.png" alt="Un file Python aperto in TTT" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-lg.png 1024w">
+        <img loading="lazy" src="https://dleoni04.github.io/SpaghettiCode/media/posts/9/ttt-6.png" alt="Un file Python aperto in TTT" style="display:block; margin: 0 auto;" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-xs.png 300w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-sm.png 480w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-md.png 768w ,https://dleoni04.github.io/SpaghettiCode/media/posts/9/responsive/ttt-6-lg.png 1024w">
     <figcaption>Un file Python aperto in TTT!</figcaption>
     </figure>
 
